@@ -3,8 +3,8 @@
 <span lang="it-IT">**Marco Morabito** </span><span
 lang="it-IT">**1,2\***</span><span lang="it-IT">**, Alfonso Crisci**
 </span><span lang="it-IT">**1**</span><span lang="it-IT">**,
-Alessandro Messeri** </span><span lang="it-IT">**2**</span>^<span
-lang="it-IT">**, Gianni Messeri** </span>^<span
+Alessandro Messeri** </span><span lang="it-IT">**2**</span><span
+lang="it-IT">**, Gianni Messeri** </span><span
 lang="it-IT">**1,3**</span><span lang="it-IT">**, Giulio Betti**
 </span>^<span lang="it-IT">**3**</span><span lang="it-IT">**, Simone
 Orlandini** </span><span lang="it-IT">**2,4**</span><span
