@@ -1,4 +1,4 @@
-**Increasing of heat-wave hazards in Southeastern capitals of the European Union Member States**
+## Increasing of heat-wave hazards in Southeastern capitals of the European Union Member States
 
 <span lang="it-IT">**Marco Morabito** </span><span
 lang="it-IT">**[1,2]**</span><span lang="it-IT">**, Alfonso Crisci**
