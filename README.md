@@ -10,7 +10,10 @@ lang="it-IT">**1,3**</span><span lang="it-IT">**, Giulio Betti**
 Orlandini** </span><span lang="it-IT">**2,4**</span><span
 lang="it-IT">**, Antonio Raschi** </span><span
 lang="it-IT">**1**</span><span lang="it-IT">**, Giampiero Maracchi**
-</span><span lang="it-IT">**5**</span><span lang="fr-CH">1</span><span lang="fr-CH"> </span><span
+</span><span lang="it-IT">**5**</span>
+
+
+<span lang="fr-CH">1</span><span lang="fr-CH"> </span><span
 lang="fr-CH">Institute of Biometeorology, National Research Council,
 Florence, Italy; </span><span lang="zxx">[<span
 lang="fr-CH">m.morabito@ibimet.cnr.it</span>](mailto:m.morabito@ibimet.cnr.it)</span><span
@@ -22,7 +25,7 @@ lang="fr-CH">; </span><span lang="zxx">[<span
 lang="fr-CH">a.raschi@ibimet.cnr.it</span>](mailto:a.raschi@ibimet.cnr.it)</span><span
 lang="fr-CH"> </span>
 
-^<span lang="fr-CH">2\\ </span>^<span lang="fr-CH">Centre of
+<span lang="fr-CH">2\\ </span><span lang="fr-CH">Centre of
 Bioclimatology, University of Florence, Florence, Italy; </span><span
 lang="zxx">[<span
 lang="fr-CH">marco.morabito@unifi.it</span>](mailto:marco.morabito@unifi.it)</span><span
