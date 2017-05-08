@@ -77,4 +77,3 @@ adaptation strategies with the priority in Southeastern cities.
 High-intensity heat-waves; Timing; Urban areas; Apparent Temperature;
 <span style="background: #ffffff">GSOD. </span>
 
-\
