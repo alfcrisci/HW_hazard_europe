@@ -1,7 +1,7 @@
 **Increasing of heat-wave hazards in Southeastern capitals of the European Union Member States**
 
 <span lang="it-IT">**Marco Morabito** </span><span
-lang="it-IT">**1,2\***</span><span lang="it-IT">**, Alfonso Crisci**
+lang="it-IT">**1,2**</span><span lang="it-IT">**, Alfonso Crisci**
 </span><span lang="it-IT">**1**</span><span lang="it-IT">**,
 Alessandro Messeri** </span><span lang="it-IT">**2**</span><span
 lang="it-IT">**, Gianni Messeri** </span><span
@@ -25,7 +25,7 @@ lang="fr-CH">; </span><span lang="zxx">[<span
 lang="fr-CH">a.raschi@ibimet.cnr.it</span>](mailto:a.raschi@ibimet.cnr.it)</span><span
 lang="fr-CH"> </span>
 
-<span lang="fr-CH">2\\ </span><span lang="fr-CH">Centre of
+<span lang="fr-CH">2</span><span lang="fr-CH">Centre of
 Bioclimatology, University of Florence, Florence, Italy; </span><span
 lang="zxx">[<span
 lang="fr-CH">marco.morabito@unifi.it</span>](mailto:marco.morabito@unifi.it)</span><span
@@ -34,7 +34,7 @@ lang="fr-CH">alessandro.messeri@unifi.it</span>](mailto:alessandro.messeri@unifi
 lang="fr-CH">; </span><span lang="zxx">[<span
 lang="fr-CH">simone.orlandini@unifi.it</span>](mailto:simone.orlandini@unifi.it)</span>
 
-<span lang="fr-CH">3\\ </span>^<span lang="fr-CH"> </span>Consorzio
+<span lang="fr-CH">3</span><span lang="fr-CH"> </span>Consorzio
 LaMMA –Laboratory of environmental modelling and monitoring for a
 sustainable development, Sesto Fiorentino (Firenze), Italy; <span
 lang="zxx"><messeri@lamma.rete.toscana.it></span>; <span
@@ -44,13 +44,12 @@ lang="zxx"><betti@lamma.rete.toscana.it></span>
 Environmental Sciences, University of Florence, Florence, Italy; <span
 lang="zxx"><simone.orlandini@unifi.it></span>
 
-^<span lang="fr-CH">5</span>^<span lang="it-IT"> Accademia dei
+<span lang="fr-CH">5</span><span lang="it-IT"> Accademia dei
 Georgofili, Florence, Italy; </span><span lang="zxx">[<span
 lang="it-IT">giampiero.maracchi@georgofili.it</span>](mailto:giampiero.maracchi@georgofili.it)</span><span
 lang="it-IT"> </span>
 
-**\*** Correspondence: <span
-lang="zxx"><m.morabito@ibimet.cnr.it></span>; Tel.: +39-055-5226041
+Correspondence: <span lang="zxx"><m.morabito@ibimet.cnr.it></span>; Tel.: +39-055-5226041
 
 
 **Abstract:** Heat-wave (HW) are one of the “natural” hazards with the
